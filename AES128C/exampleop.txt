@@ -1,0 +1,216 @@
+KeySched
+---------
+2b7e1516
+28aed2a6
+abf71588
+9cf4f3c
+a0fafe17
+88542cb1
+23a33939
+2a6c765
+f2c295f2
+7a96b943
+5935807a
+7359f67f
+3d80477d
+4716fe3e
+1e237e44
+6d7a883b
+ef44a541
+a8525b7f
+b671253b
+dbbad0
+d4d1c6f8
+7c839d87
+caf2b8bc
+11f915bc
+6d88a37a
+11b3efd
+dbf98641
+ca093fd
+4e54f7e
+5f5fc9f3
+84a64fb2
+4ea6dc4f
+ead27321
+b58dbad2
+312bf560
+7f8d292f
+ac7766f3
+19fadc21
+28d12941
+575c06e
+d014f9a8
+c9ee2589
+e13fcc8
+b663ca6
+
+ENCRYPTION PROCESS
+------------------
+plaintext: 
+32 88 31 e0 
+43 5a 31 37 
+f6 30 98 07 
+a8 8d a2 34 
+
+ROUND 1
+----------
+19 a0 9a e9 
+3d f4 c6 f8 
+e3 e2 8d 48 
+be 2b 2a 08 
+
+ROUND 2
+----------
+a4 68 6b 02 
+9c 9f 5b 6a 
+7f 35 ea 50 
+f2 2b 43 49 
+
+ROUND 3
+----------
+aa 61 82 68 
+8f dd d2 32 
+5f e3 4a 46 
+03 ef d2 9a 
+
+ROUND 4
+----------
+48 67 4d d6 
+6c 1d e3 5f 
+4e 9d b1 58 
+ee 0d 38 e7 
+
+ROUND 5
+----------
+e0 c8 d9 85 
+92 63 b1 b8 
+7f 63 35 be 
+e8 c0 50 01 
+
+ROUND 6
+----------
+f1 c1 7c 5d 
+00 92 c8 b5 
+6f 4c 8b d5 
+55 ef 32 0c 
+
+ROUND 7
+----------
+26 3d e8 fd 
+0e 41 64 d2 
+2e b7 72 8b 
+17 7d a9 25 
+
+ROUND 8
+----------
+5a 19 a3 7a 
+41 49 e0 8c 
+42 dc 19 04 
+b1 1f 65 0c 
+
+ROUND 9
+----------
+ea 04 65 85 
+83 45 5d 96 
+5c 33 98 b0 
+f0 2d ad c5 
+
+FINAL ROUND
+-------------
+eb 59 8b 1b 
+40 2e a1 c3 
+f2 38 13 42 
+1e 84 e7 d2 
+
+CIPHERTEXT:
+39 02 dc 19 
+25 dc 11 6a 
+84 09 85 0b 
+1d fb 97 32 
+
+DECRYPTION PROCESS
+------------------
+CIPHERTEXT:
+39 02 dc 19 
+25 dc 11 6a 
+84 09 85 0b 
+1d fb 97 32 
+
+ROUND 1
+----------
+e9 cb 3d af 
+31 32 2e 09 
+7d 2c 89 07 
+b5 72 5f 94 
+
+ROUND 2
+----------
+87 f2 4d 97 
+6e 4c 90 ec 
+46 e7 4a c3 
+a6 8c d8 95 
+
+ROUND 3
+----------
+be d4 0a da 
+3b e1 64 83 
+d4 f2 2c 86 
+fe c8 c0 4d 
+
+ROUND 4
+----------
+f7 27 9b 54 
+83 43 b5 ab 
+40 3d 31 a9 
+3f f0 ff d3 
+
+ROUND 5
+----------
+a1 78 10 4c 
+4f e8 d5 63 
+3d 03 a8 29 
+fe fc df 23 
+
+ROUND 6
+----------
+e1 e8 35 97 
+fb c8 6c 4f 
+96 ae d2 fb 
+7c 9b ba 53 
+
+ROUND 7
+----------
+52 85 e3 f6 
+a4 11 cf 50 
+c8 6a 2f 5e 
+94 28 d7 07 
+
+ROUND 8
+----------
+ac ef 13 45 
+c1 b5 23 73 
+d6 5a cf 11 
+b8 7b df b5 
+
+ROUND 9
+----------
+49 45 7f 77 
+db 39 02 de 
+87 53 d2 96 
+3b 89 f1 1a 
+
+FINAL ROUND
+-------------
+d4 e0 b8 1e 
+bf b4 41 27 
+5d 52 11 98 
+30 ae f1 e5 
+
+MESSAGE:
+32 88 31 e0 
+43 5a 31 37 
+f6 30 98 07 
+a8 8d a2 34 
+
+Done Processing!
